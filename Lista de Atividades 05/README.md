@@ -3,7 +3,7 @@
 
 ## _Anunciado das atividades_
 
-* Arquivo pdf com enunciado das 4 atividades.
+* Arquivo .pdf com enunciado das 4 atividades.
 
 ## _Atividades Resolvidas_
 
