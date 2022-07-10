@@ -8,7 +8,7 @@
 * 2 Arquivo em .cpp contendo os exercícios 1 e 4.
 * 3 Arquivo em .c contendo os exercícios 2,3 e 5.
 
-## _Exercicio 1_
+## _Exercício 1_
 
 _Construir um programa que apresente o tamanho em kbytes que alguns
 tipos de variáveis possuem. Os tipos de variáveis a serem verificados são: int,
@@ -41,9 +41,9 @@ printf("\ndouble\n     %d\n", sizeof(h));
 }
 
 ```
-## _Exercicio 2_
+## _Exercício 2_
 
-_Calcular a quilometragem por litro que um dado veículo faz. Para isso o
+_Calcular a quilometragem por litro que um veículo faz. Para isso o
 usuário deve inserir a quilometragem rodada e a quantidade de combustível
 gasta. Exibir a mensagem final para o usuário de quantos quilômetros o
 automóvel faz por litro de combustível._
@@ -69,7 +69,7 @@ main ()
 
 ```
 
-## _Exercicio 3_
+## _Exercício 3_
 
 _Solicitar ao usuário que este digite dois valores, e então mostre na tela o
 quadrado das somas e a soma dos quadrados, dos valores inseridos._
@@ -98,7 +98,7 @@ quadrado das somas e a soma dos quadrados, dos valores inseridos._
 }
 
 ```
-## _Exercicio 4_
+## _Exercício 4_
 
 _O programa deve solicitar ao usuário que insira seus dados como nome,
 cpf, rg, idade, peso, sexo (M ou F) e apresentar estes dados ao final._
@@ -177,7 +177,7 @@ main ()
 }
 ```
 
-## _Exercicio 5_
+## _Exercício 5_
 
 _Implementar o programa ilustrado no slide 19, da direita, da
 apresentação em power-point, que informa os resultados em 1 e 0 (verdadeiro
