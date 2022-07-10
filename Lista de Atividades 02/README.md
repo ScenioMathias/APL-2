@@ -10,12 +10,12 @@
 
 * 5 Arquivos em .c contendo os exercícios.
 
-## _Exercicio 1_
+## _Exercício 1_
 
 _Por meio dos exercícios realizados em sala de aula, resolva o cálculo de
 uma equação de 2º grau no modelo 𝑎𝑥
 2 + 𝑏𝑥 + 𝑐 = 0 onde é solicitado ao
-usuário entrar com os valores de 𝑎, 𝑏 e 𝑐. A presentar ao usuário as raízes da
+usuário entrar com os valores de 𝑎, 𝑏 e 𝑐. Apresentar ao usuário as raízes da
 equação._
 
 ```shell
@@ -66,7 +66,7 @@ main (){
 }
 
 ```
-## _Exercicio 2_
+## _Exercício 2_
 _A partir da entrada de 4 valores inteiros, informe: qual o maior e qual o
 menor valor entre eles; quais são pares e ímpares; e os apresente na ordem
 crescente._
@@ -217,7 +217,7 @@ main(){
 }
 ```
 
-## _Exercicio 3_
+## _Exercício 3_
 
 _Duas cidades A e B têm populações de 7.000 e 20.000 habitantes,
 respectivamente. A cidade A tem um crescimento populacional de 3,5% ao ano,
@@ -249,7 +249,7 @@ main()
     printf("\n A cidade 'A' levara %d ano(s) para alcançar ou ultrapassar cidade B. ",cont);
 }
 ```
-## _Exercicio 4_
+## _Exercício 4_
 _Elabore um programa que calcule se um determinado número inteiro,
 digitado pelo usuário, representa um número primo._
 ```shell
@@ -283,7 +283,7 @@ int main() {
 }
 ```
 
-## _Exercicio 5_
+## _Exercício 5_
 _Proporção áurea, número de ouro, número áureo, secção áurea, proporção
 de ouro, são alguns dos diversos nomes para a constante real algébrica irracional
 denotada pela letra grega ϕ (phi), em homenagem ao escultor Phideas, que
